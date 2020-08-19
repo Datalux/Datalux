@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Giuseppe Criscione's github stats](https://github-readme-stats.vercel.app/api?username=Datalux&show_icons=true)](https://github.com/Datalux)
+[![Giuseppe Criscione's github stats](https://github-readme-stats.vercel.app/api?username=Datalux&show_icons=true&count_private=true)](https://github.com/Datalux)
