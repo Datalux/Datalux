@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+If you like my works you can buy me a coffee: [https://www.buymeacoffee.com/Datalux](https://www.buymeacoffee.com/Datalux)
 <!--
 **Datalux/Datalux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
